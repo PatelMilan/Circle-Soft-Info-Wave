@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitImageUpload</string>
+    <string name="select">Select Image</string>
+    <string name="uplod">UlpoadImage</string>
+</resources>
